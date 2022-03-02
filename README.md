@@ -1,2 +1,2 @@
 # project
-this is a test empty repository.
+this is a test repository.
